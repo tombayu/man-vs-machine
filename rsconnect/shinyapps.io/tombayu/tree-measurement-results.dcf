@@ -1,0 +1,13 @@
+name: tree-measurement-results
+title: tree-measurement-results
+username:
+account: tombayu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 354995
+bundleId: 1424655
+url: https://tombayu.shinyapps.io/tree-measurement-results/
+when: 1528798669.43347
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: B1_01_Lidar.R.txt|B1_02_ManualMeas.R.txt|B1_man_vs_machine_v10.R|B1_man_vs_machine_v2.R|B1_man_vs_machine_v3.R|B1_man_vs_machine_v4.R|B1_man_vs_machine_v5.R|B1_man_vs_machine_v6.R|B1_man_vs_machine_v7.R|B1_man_vs_machine_v8.R|B1_man_vs_machine_v9.R|B1_manual.R|B2_plot.R|machine.xlsx|measurements.xlsx|navbar.R|navbar_v2.R|treevisualizations.R|data/machine3.xlsx|versions/app.R|images
